@@ -29,8 +29,12 @@ The application is availbale at http://localhost:3000/
 
 ## Upload
 
-Please upload contact and listing csv files. I had difficulties around joining the collections in the end, so please navigate to the following url
+Please upload contact and listing csv files and select upload.
+
+I had difficulties around joining the collections in the end, so please navigate to the following url after the reponse - documents imported successfully
 http://localhost:3000/join
+
+This will merge two collections based on listing id and the results can be seen in the terminal window.
 
 
 After joining the collections, please navigate to this url to modify the object types.

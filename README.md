@@ -33,7 +33,7 @@ Please upload contact and listing csv files. I had difficulties around joining t
 http://localhost:3000/join
 
 
-After joining the collections, please navigate to this url to modify the object types 
+After joining the collections, please navigate to this url to modify the object types.
 Modifying the format of certain fields - price,mileage in int and date to date format
 
 http://localhost:3000/change
